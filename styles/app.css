@@ -45,8 +45,14 @@ h6 {
   overflow-wrap: break-word;
 }
 
+main {
+  position: relative;
+}
+
+
 .main-container {
   display: flex;
+  position: relative;
 }
 
 .left-wrapper {
